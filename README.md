@@ -1,2 +1,2 @@
-# pizza-home-page
+# Pizza Home Page
 Using Html, CSS, Bootstrap
